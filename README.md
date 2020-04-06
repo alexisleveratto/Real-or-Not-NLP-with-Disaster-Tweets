@@ -6,7 +6,7 @@ The ubiquitousness of smartphones enables people to announce an emergency they�
 
 But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
 
-![tweet_screenshot](tweet_screenshot.pngb){:height="50%" width="50%"}
+![tweet_screenshot](tweet_screenshot.png){:height="50%" width="50%"}
 
 The author explicitly uses the word “ABLAZE” but means it metaphorically. This is clear to a human right away, especially with the visual aid. But it’s less clear to a machine.
 
